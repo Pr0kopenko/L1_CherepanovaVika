@@ -7,4 +7,4 @@
 
 import Foundation
 
-print("Hello")
+print("Hello, World")
