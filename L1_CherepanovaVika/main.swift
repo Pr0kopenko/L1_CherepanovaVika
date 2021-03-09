@@ -73,3 +73,4 @@ while (yearCount < maxYearCount){
 
 print("Сумма вклада через 5 лет составит \(yearInterest) р.")
 
+
