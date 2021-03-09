@@ -71,5 +71,5 @@ while (yearCount < maxYearCount){
     yearCount = yearCount + 1.0
 }
 
-print("Сумма вклада через 5 лет составит \(yearInterest) рублей")
+print("Сумма вклада через 5 лет составит \(yearInterest) р.")
 
