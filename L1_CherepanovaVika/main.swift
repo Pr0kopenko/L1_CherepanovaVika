@@ -7,8 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
 print("Решим квадратное уравнение вида x(^2) - 2x - 3 = 0")
 
 var x1:Double = 0.0
@@ -74,3 +72,4 @@ while (yearCount < maxYearCount){
 }
 
 print("Сумма вклада через 5 лет составит \(yearInterest) рублей")
+
